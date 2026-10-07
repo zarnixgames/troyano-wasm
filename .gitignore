@@ -1,0 +1,9 @@
+# Ignora archivos que no necesitas subir a GitHub
+*.exe
+*.dll
+__pycache__/
+.env
+node_modules/
+dist/
+build/
+C2_STORAGE/
